@@ -57,16 +57,22 @@ http://opensource.org/licenses/MIT.
 
   .. |travismaster| image:: https://travis-ci.org/bayespy/bayespy.svg?branch=master
      :target: https://travis-ci.org/bayespy/bayespy/
+     :align: middle
   .. |travisdevelop| image:: https://travis-ci.org/bayespy/bayespy.svg?branch=develop
      :target: https://travis-ci.org/bayespy/bayespy/
+     :align: middle
   .. |covermaster| image:: https://coveralls.io/repos/bayespy/bayespy/badge.svg?branch=master
      :target: https://coveralls.io/r/bayespy/bayespy?branch=master
+     :align: middle
   .. |coverdevelop| image:: https://coveralls.io/repos/bayespy/bayespy/badge.svg?branch=develop
      :target: https://coveralls.io/r/bayespy/bayespy?branch=develop
+     :align: middle
   .. |docsmaster| image:: https://img.shields.io/badge/docs-master-blue.svg?style=flat
      :target: http://bayespy.readthedocs.org/en/master/
+     :align: middle
   .. |docsdevelop| image:: https://img.shields.io/badge/docs-develop-blue.svg?style=flat
      :target: http://bayespy.readthedocs.org/en/develop/
+     :align: middle
 
   =========== =============== ============== =============
   Branch      Test status     Test coverage  Documentation
