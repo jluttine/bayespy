@@ -59,32 +59,22 @@ http://opensource.org/licenses/MIT.
      :target: https://travis-ci.org/bayespy/bayespy/
   .. |travisdevelop| image:: https://travis-ci.org/bayespy/bayespy.svg?branch=develop
      :target: https://travis-ci.org/bayespy/bayespy/
-
-  =========== ===============
-              Test status
-  =========== ===============
-  **master**  |travismaster|
-  **develop** |travisdevelop|
-  =========== ===============
-
-  =========== ============================================================================================================ ========================================================================================================================================== =================================================================================================================== 
-              Test status                                                                                                  Test coverage                                                                                                                              Documentation
-  =========== ============================================================================================================ ========================================================================================================================================== ===================================================================================================================
-  **master**  [![travis](https://travis-ci.org/bayespy/bayespy.svg?branch=master)](https://travis-ci.org/bayespy/bayespy)  [![travis-ci](https://coveralls.io/repos/bayespy/bayespy/badge.svg?branch=master)](https://coveralls.io/r/bayespy/bayespy?branch=master)   [![docs](https://img.shields.io/badge/docs-master-blue.svg?style=flat)](http://bayespy.readthedocs.org/en/master/)
-  **develop** [![travis](https://travis-ci.org/bayespy/bayespy.svg?branch=develop)](https://travis-ci.org/bayespy/bayespy) [![travis-ci](https://coveralls.io/repos/bayespy/bayespy/badge.svg?branch=develop)](https://coveralls.io/r/bayespy/bayespy?branch=develop) [![docs](https://img.shields.io/badge/docs-master-blue.svg?style=flat)](http://bayespy.readthedocs.org/en/develop/)
-  =========== ============================================================================================================ ========================================================================================================================================== ===================================================================================================================
-
-* Build status:
-  
-  .. image:: https://travis-ci.org/bayespy/bayespy.png?branch=master
-     :target: https://travis-ci.org/bayespy/bayespy/
-
-* Unit test coverage:
-
-  .. image:: https://coveralls.io/repos/bayespy/bayespy/badge.png?branch=master
+  .. |covermaster| image:: https://coveralls.io/repos/bayespy/bayespy/badge.svg?branch=master
      :target: https://coveralls.io/r/bayespy/bayespy?branch=master
+  .. |coverdevelop| image:: https://coveralls.io/repos/bayespy/bayespy/badge.svg?branch=develop
+     :target: https://coveralls.io/r/bayespy/bayespy?branch=develop
+  .. |docsmaster| image:: https://img.shields.io/badge/docs-master-blue.svg?style=flat
+     :target: http://bayespy.readthedocs.org/en/master/
+  .. |docsdevelop| image:: https://img.shields.io/badge/docs-develop-blue.svg?style=flat
+     :target: http://bayespy.readthedocs.org/en/develop/
 
-
+  =========== =============== ============== =============
+  Branch      Test status     Test coverage  Documentation
+  =========== =============== ============== =============
+  **master**  |travismaster|  |covermaster|  |docsmaster|
+  **develop** |travisdevelop| |coverdevelop| |docsdevelop|
+  =========== =============== ============== =============
+ 
 
 Similar projects
 ----------------
